@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Office Address ",
+        "info": " BH-525,5th Floor,81 Business Hub, Sector-81,Faridabad,Haryana-121002,India <br/>Registered Office - B-1, Duggal Colony, Khanpur, New Delhi – 110062, India"
+    },
+    {
+        "id": 2,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Phone Number",
+        "info": "(+91) 98180 66855 "
+    },
+    {
+        "id": 3,
+        "classOption": "address-list",
+        "title": "Web Address",
+        "info": "info@aaranayacertification.com"
+    }
+]
